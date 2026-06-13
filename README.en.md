@@ -1,8 +1,8 @@
 <div align="center">
 
-与其放纵AI，不如蒸馏自己！
-
 # myself.skill
+
+与其放纵AI，不如蒸馏自己！
 
 </div>
 
