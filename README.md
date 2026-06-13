@@ -1,6 +1,10 @@
+<div align="center">
+
 与其放纵AI，不如蒸馏自己！
 
 # myself.skill
+
+</div>
 
 `myself.skill` 是一个 Codex skill，用来从本机 Codex 与 Claude Code 对话记录中抽取“用户 prompt + 上一条 agent 回复”，再辅助大模型分析用户的职业信号、性格、工作习惯、说话风格、技能点和协作偏好，最终沉淀成一个 `SOUL.md`。
 

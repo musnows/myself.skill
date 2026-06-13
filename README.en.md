@@ -1,6 +1,10 @@
+<div align="center">
+
 与其放纵AI，不如蒸馏自己！
 
 # myself.skill
+
+</div>
 
 `myself.skill` is a Codex skill for distilling a user's local AI interaction history into a practical `SOUL.md` profile. It extracts user prompts and the immediately preceding agent replies from local Codex and Claude Code transcripts, then guides an agent to analyze profession signals, personality, work habits, communication style, technical strengths, collaboration preferences, and guardrails.
 
