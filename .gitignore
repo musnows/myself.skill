@@ -1,0 +1,6 @@
+.ai-docs/
+SOUL.md
+interactions.jsonl
+summary.md
+__pycache__/
+*.pyc

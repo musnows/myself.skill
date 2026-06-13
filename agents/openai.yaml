@@ -1,0 +1,4 @@
+interface:
+  display_name: "Distill Myself"
+  short_description: "Distill local AI transcripts into a SOUL.md profile"
+  default_prompt: "Use $distill-myself to parse my local Codex and Claude Code transcripts, analyze my interaction patterns, and write SOUL.md."
